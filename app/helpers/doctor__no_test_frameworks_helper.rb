@@ -1,0 +1,2 @@
+module DoctorNoTestFrameworksHelper
+end
